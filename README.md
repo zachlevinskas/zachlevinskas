@@ -17,4 +17,4 @@ Software Engineer specializing in enterprise integration and automation at Genes
 - **Databases:** Oracle, MySQL, SQLite
 - **Tools:** Git, Claude, CI/CD
 
-📍 Nashville, TN | 🔗 [LinkedIn](www.linkedin.com/in/zachary-levinskas-3a87b73a6)
+📍 Nashville, TN | 🔗 [LinkedIn](https://www.linkedin.com/in/zachary-levinskas-3a87b73a6)
