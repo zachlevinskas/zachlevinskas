@@ -18,3 +18,4 @@ Software Engineer specializing in enterprise integration and automation at Genes
 - **Tools:** Git, Claude, CI/CD
 
 📍 Nashville, TN | 🔗 [LinkedIn](https://www.linkedin.com/in/zachary-levinskas-3a87b73a6)
+💼 Currently open to new opportunities in automation, integration, and backend engineering
