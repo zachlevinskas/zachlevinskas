@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hi, I'm Zach 👋
 
-<!--
-**zachlevinskas/zachlevinskas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer specializing in enterprise integration and automation at Genesco Inc. in Nashville.
 
-Here are some ideas to get you started:
+**Current Focus:**
+- Production integration systems (APIs, message queues, distributed systems)
+- RPA automation
+- Expanding into Python-based web scraping and cloud technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Recent Work:**
+- [Privacy Scanner](https://github.com/zachlevinskas/privacy-scanner) - Python/FastAPI web scraping application with RESTful API endpoints
+
+**Tech Stack:**
+- **Languages:** Python, Java, SQL, ESQL, 
+- **Integration:** IBM App Connect Enterprise, REST/SOAP APIs, IBM MQ
+- **Automation:** Blue Prism RPA
+- **Databases:** Oracle, MySQL, SQLite
+- **Tools:** Git, Claude, CI/CD
+
+📍 Nashville, TN | 🔗 [LinkedIn](https://linkedin.com/zachary-levinskas-3a87b73a6)
